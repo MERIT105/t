@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '8047907032:AAEGqos5cndTt56FyKTCWF7_bk6iWsH1F6s'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '8047907032:AAHowH9I0j2J0OWOxyUKgmfUiMZ8YY6pA60'  # Replace with your bot token
 OWNER_USERNAME = "Sanjai10_oct_2k03"
 ALLOWED_GROUP_ID = -1002204038475  # Replace with your allowed group ID
 MAX_THREADS = 1200  # Default max threads
